@@ -7,6 +7,7 @@ public class Lecture1b {
         a.setWidth(obj.nextDouble());
         System.out.println("Shemoitaanet shape is sigrdze");
         a.setHeight(obj.nextDouble());
-        a.print();
+        a.print();;
+
     }
 }
